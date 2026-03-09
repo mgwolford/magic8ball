@@ -4,6 +4,12 @@ An interactive Magic 8 Ball web app that lets users ask a question about college
 
 This project was built as a fun way to explore JavaScript-driven interaction and animation while creating a playful user experience.
 
+## Screenshot
+![Magic 8 Ball Screenshot](/assets/8-ball-screenshot.jpg)
+
+## Live Demo
+[View the live app](https://mgwolford.github.io/magic8ball/)
+
 ## Features
 - Ask any college-related question
 - Click the 8 ball to trigger a shake animation
